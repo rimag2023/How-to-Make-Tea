@@ -24,3 +24,4 @@ If you want to run this project locally:
 1. **Clone the repository** to your local machine.
    ```bash
    git clone https://github.com/yourusername/How-to-Make-Tea.git
+2. Open the index.html file in your preferred web browser.
